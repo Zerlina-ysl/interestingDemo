@@ -1,4 +1,4 @@
-package Go
+package sync_mutex
 
 import (
 	"sync"
